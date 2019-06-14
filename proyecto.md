@@ -66,12 +66,12 @@ Como vemos nos llegaria correctamente el reporte a la base de datos de Spicework
 ![](images/23.PNG)
 
  Nosotros buscariamos la averia o simplemente avisariamos de la correccion del problema mediante un reporte a la empresa ya sea mediante ticket para email etc
- ![](images/24.PNG)
+![](images/24.PNG)
  
- Resguardo del reporte
- ![](images/25.PNG)
+Resguardo del reporte
+![](images/25.PNG)
  
- Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa
+Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa
  ![](images/26.PNG)
 
 
