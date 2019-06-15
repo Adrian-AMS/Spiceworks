@@ -3,7 +3,7 @@
 ## Instalación y uso de la herramienta - Spiceworks (creación de tickets o reportes servicio tecnico)
 
 
-Una vez registrados correctamente:
+**Una vez registrados correctamente:**
 
 **Lo primero que haremos es irnos a la pagina principal de Spiceworks para descargarnos su aplicacion de escritorio**.
 
