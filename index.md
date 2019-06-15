@@ -1,10 +1,11 @@
 # Proyecto SPICEWORKS - ADRIÁN MACHÍN SOTO
 
-## Instalacion y uso de la herramienta (creacion de tickets) en Spiceworks
+## Instalación y uso de la herramienta - Spiceworks (creación de tickets o reportes servicio tecnico)
+
 
 Una vez registrados correctamente:
 
-Lo primero que haremos es irnos a la pagina de Spiceworks para descarganos su aplicacion de escritorio
+Lo primero que haremos es irnos a la pagina principal de Spiceworks para descargarnos su aplicacion de escritorio.
 ![](images/1.PNG)
 
 Entramos en la pestaña Tools & Apps y descargamos la aplicacion desktop
@@ -77,6 +78,9 @@ Resguardo del reporte
  
 Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa
 ![](images/26.PNG)
+
+
+###Esto es solo una parte de todas las posibilidades de herramientas que tiene spiceworks dependiendo de nuestras nececidades
 
 
 
