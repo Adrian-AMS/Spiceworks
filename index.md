@@ -5,7 +5,7 @@
 
 Una vez registrados correctamente:
 
-**Lo primero que haremos es irnos a la pagina principal de Spiceworks para descargarnos su aplicacion de escritorio.
+**Lo primero que haremos es irnos a la pagina principal de Spiceworks para descargarnos su aplicacion de escritorio**.
 ![](images/1.PNG)
 
 **Entramos en la pestaña Tools & Apps y descargamos la aplicacion desktop
