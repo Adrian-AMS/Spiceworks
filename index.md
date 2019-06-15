@@ -17,12 +17,14 @@ Seleccionamos el puerto 80 ya que es el puerto por defecto donde vamos a trabaja
 ![](images/4.PNG)
 
 Activamos la opcion de instalar los paquetes adicionales de Nmap y WinPCap por si nos hacen falta en un futuro
+
 ![](images/5.PNG)
 
 Aceptamos la ruta por defecto donde se va a guardar 
 ![](images/6.PNG)
 
 Esperamos a que termine la instalacion
+
 ![](images/7.PNG)
 
 Marcamos la opcion de instalacion de acceso directo en el escritorio y que se inice ahora
@@ -67,14 +69,14 @@ Probamos desde el correo del cliente a enviar un correo reportando la resolucion
 Como vemos nos llegaria correctamente el reporte a la base de datos de Spiceworks donde nos salen todos los reportes asociados a nuestro perfil o espacio mediante tickets
 ![](images/23.PNG)
 
- Nosotros buscariamos la averia o simplemente avisariamos de la correccion del problema mediante un reporte a la empresa ya sea mediante ticket para email etc
+Nosotros buscariamos la averia o simplemente avisariamos de la correccion del problema mediante un reporte a la empresa ya sea mediante ticket para email etc
 ![](images/24.PNG)
  
 Resguardo del reporte
 ![](images/25.PNG)
  
 Finalmente como veriamos se nos queda un resguardo del principio de la incidencia con el reporte de la empresa reportando la averia y el reporte del soporte tecnico avisando de la resolucion del problema a la empresa
- ![](images/26.PNG)
+![](images/26.PNG)
 
 
 
