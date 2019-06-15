@@ -12,6 +12,15 @@ Una vez registrados correctamente:
 ![](images/2.PNG)
 
 **Esperamos que cargue completamente y continuamos la instalacion**
+
+
+
+
+
+
+
+
+
 ![](images/3.PNG)
 
 **Seleccionamos el puerto 80 ya que es el puerto por defecto donde vamos a trabajar**
