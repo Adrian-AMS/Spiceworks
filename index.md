@@ -80,10 +80,5 @@ Finalmente como veriamos se nos queda un resguardo del principio de la incidenci
 ![](images/26.PNG)
 
 
-##Esto es solo una parte de todas las posibilidades de herramientas que tiene spiceworks dependiendo de nuestras nececidades
-
-
-
-
 
 
