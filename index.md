@@ -65,6 +65,8 @@ Nos dio un error por poner los email equivocados pero ya esta resuelto ya que ne
 ![](images/21.PNG)
 
 Probamos desde el correo del cliente a enviar un correo reportando la resolucion de un problema en la empresa al tecnico de soporte 
+
+
 ![](images/22.PNG)
 
 Como vemos nos llegaria correctamente el reporte a la base de datos de Spiceworks donde nos salen todos los reportes asociados a nuestro perfil o espacio mediante tickets
