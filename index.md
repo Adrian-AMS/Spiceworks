@@ -1,4 +1,4 @@
-# Proyecto SPICEWORKS ADRIÁN MACHÍN SOTO
+# Proyecto SPICEWORKS - ADRIÁN MACHÍN SOTO
 
 ## Instalacion y uso de la herramienta (creacion de tickets) en Spiceworks
 
